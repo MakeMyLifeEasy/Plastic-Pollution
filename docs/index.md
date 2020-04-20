@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-![Image](docs/1682478-poster-1280-plasticbags.jpg)
+
+![Image](1682478-poster-1280-plasticbags.jpg)
 
 You can use the [editor on GitHub](https://github.com/MakeMyLifeEasy/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
