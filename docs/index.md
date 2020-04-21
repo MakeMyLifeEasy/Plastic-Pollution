@@ -4,7 +4,7 @@
 
 ![Image](1682478-poster-1280-plasticbags.jpg)
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width="900" height="400" scrolling='yes'> </iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width="850" height="400" scrolling='yes'> </iframe>
 
 You can use the [editor on GitHub](https://github.com/MakeMyLifeEasy/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
