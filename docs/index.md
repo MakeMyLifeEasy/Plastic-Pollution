@@ -1,10 +1,14 @@
-## Big Idea: Whether humans live near the coasts or far inland, they are a part of the problem- and the solution to plastic pollution. Learning and preventing this global crisis at an individual level, could protect our oceans and waterways.
+## **Big Idea**: Plastic Pollution
+### Whether humans live near the coasts or far inland, they are a part of the problem- and the solution to plastic pollution. Learning and preventing this global crisis at an individual level, could protect our oceans and waterways.
 
-## 3 Minute Story: Plastic Pollution
+## 3 Minute Story: 
 
 Plastic is a substance that earth cannot digest. In fact, more than 40 percent of plastic is used only once before it is thrown away, where it lingers in the environment for a very long time. The pieces of plastic take decades and centuries to degrade in the ocean. Current estimates show that at last 8 million pieces of plastic are entering the oceans every single day. At current rates, plastic is expected to outweigh all the fish in the sea by 2050. 
+
 From the whale, sea lions, and birds to the microscopic organisms called zooplankton, plastic has been, and is, greatly affecting marine life on shore and offshore. Plastics may form an even bigger threat to coastal populations, particularly in developing countries. 
+
 The United Nations Joint Group of Experts on the Scientific Aspects of Marine Pollution (GESAMP), estimated that land-based sources account for up to 80 percent of the world’s marine pollution, 60 to 95 percent of the waste being plastics debris. 
+
 A full understanding of the magnitude and scope of this plastic pollution starts with clear definitions as to what and why it is happening. It simply starts with individual choices.
 
 
