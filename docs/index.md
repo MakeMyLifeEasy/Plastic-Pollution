@@ -1,7 +1,7 @@
-## **Big Idea**: Plastic Pollution
+## **Big Idea**
 ### Whether humans live near the coasts or far inland, they are a part of the problem- and the solution to plastic pollution. Learning and preventing this global crisis at an individual level, could protect our oceans and waterways.
 
-## 3 Minute Story: 
+## **3 Minute Story**
 
 Plastic is a substance that earth cannot digest. In fact, more than 40 percent of plastic is used only once before it is thrown away, where it lingers in the environment for a very long time. The pieces of plastic take decades and centuries to degrade in the ocean. Current estimates show that at last 8 million pieces of plastic are entering the oceans every single day. At current rates, plastic is expected to outweigh all the fish in the sea by 2050. 
 
@@ -28,6 +28,10 @@ A full understanding of the magnitude and scope of this plastic pollution starts
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet8?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet9?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet10?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet11?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
 You can use the [editor on GitHub](https://github.com/MakeMyLifeEasy/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
