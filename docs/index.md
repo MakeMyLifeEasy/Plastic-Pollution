@@ -12,8 +12,13 @@ The United Nations Joint Group of Experts on the Scientific Aspects of Marine Po
 A full understanding of the magnitude and scope of this plastic pollution starts with clear definitions as to what and why it is happening. It simply starts with individual choices.
 
 
-
 ![Image](1682478-poster-1280-plasticbags.jpg)
+
+**What is plastic used for?**
+### **What is plastic used for?**
+### What is plastic used for?
+
+Plastic we use, comes in all shapes and sizes. Furthermore, a lot of plastic is used to make disposable products rather than lasting ones. Around the world, almost 1 million plastic bottles are purchased every minute.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="400" scrolling='yes'> </iframe>
 
