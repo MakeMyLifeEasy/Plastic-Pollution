@@ -26,7 +26,14 @@ The production of plastic has been growing almost exponentially every year. The 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet3?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
+China is the leading plastic producer accounting for about 28%. Meanwhile, Europe and NAFTA are on a similar level each with a share of around 18%~19% as depicted below.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet5?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
+
+### **Mismanaged Plastic Waste**
+
+The waste’s that are not properly disposed and are at a high risk of entering the ocean. The highest share of the world’s ocean plastics pollution has its origin in Asia. China being the highest contributor followed by Indonesia, Philippines and Vietnam.
+The global mismanaged plastic waste derived from a given country is depicted in the chart below.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet6?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
