@@ -14,9 +14,7 @@ A full understanding of the magnitude and scope of this plastic pollution starts
 
 ![Image](1682478-poster-1280-plasticbags.jpg)
 
-**What is plastic used for?**
 ### **What is plastic used for?**
-### What is plastic used for?
 
 Plastic we use, comes in all shapes and sizes. Furthermore, a lot of plastic is used to make disposable products rather than lasting ones. Around the world, almost 1 million plastic bottles are purchased every minute.
 
