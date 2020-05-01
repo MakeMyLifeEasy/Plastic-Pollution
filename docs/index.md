@@ -18,6 +18,10 @@ A full understanding of the magnitude and scope of this plastic pollution starts
 
 Plastic we use, comes in all shapes and sizes. Furthermore, a lot of plastic is used to make disposable products rather than lasting ones. Around the world, almost 1 million plastic bottles are purchased every minute.
 
+### **How much plastic does the world produce?**
+
+The production of plastic has been growing almost exponentially every year. The chart below shows the global production of plastic from 1950-2015, which has reached a peak of 381 million tonnes (Approx. 2/3rd of the world population) in 2015. 
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="400" scrolling='yes'> </iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet3?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
