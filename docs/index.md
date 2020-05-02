@@ -37,9 +37,27 @@ The global mismanaged plastic waste derived from a given country is depicted in 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet6?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
+### **Fate of Plastic**
+
+From 1950-2015, 8.3 billion tons of plastic was produced globally. Half of all plastic produced is designed to be used only once. However, only 500 million tonnes (6%) was recycled; out of which 300 million tonnes was later discarded.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet7?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
+### **Where does plastic end up?**
+
+Plastic has long since become an inherent part of the oceans. An estimated 5 trillion plastic particles are floating at the ocean's surface. According to Ocean Conservancy, every year **8 million metric tons** of plastic goes into the ocean.
+
+The chart below gives an idea about the quantity of plastic waste **floating** at the ocean surface for particles ranging from small microplastics to macroplastics. 
+
+The northern hemisphere basins have the highest surface plastic accounting to the highest coastal population compared to southern hemisphere.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet8?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
+
+### **Future of Microplastic in Surface Ocean**
+
+Microplastic are plastic materials smaller than 0.5 centimeters in diameter. By 2050, if the plastic production continues to grow in line with the historical plastic production rates, the estimated plastic debris would be around 2.6 million tons. 
+
+What’s more striking is that even if the ocean plastic waste is stopped by 2020, microplastics would still persist in the surface waters for many more decades. However, the amount of plastic will be 50% less than compared to the above scenario.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet9?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
