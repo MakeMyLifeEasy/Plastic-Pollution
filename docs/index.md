@@ -73,9 +73,9 @@ In 2015, 34.5 million tons of plastic waste was generated in the U.S. with 26 mi
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet11?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
-According to the microplastic ocean data analysis, it is not far behind when plastic enters our food chain and on our plates!
+### According to the microplastic ocean data analysis, it is not far behind when plastic enters our food chain and on our plates!
 
-One of the best solutions to plastic pollution, is just **PREVENTION!**
+### One of the best solutions to plastic pollution, is just **PREVENTION!**
 
 You can use the [editor on GitHub](https://github.com/MakeMyLifeEasy/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
