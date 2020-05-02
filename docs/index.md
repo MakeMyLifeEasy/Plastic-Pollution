@@ -61,9 +61,21 @@ What’s more striking is that even if the ocean plastic waste is stopped by 202
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet9?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
+### **Plastic Recycling from around the World**
+
+According to Environmental Protection Agency report, Americans recycle around 35% of the waste they create. Many European countries on the other hand have developed successful recycling programs. Austria having the highest recycling rate of about 63%. But, on the other hand most of the developing nations do not have a formal waste disposal system.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet10?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
+### **Plastic Fate in United States**
+
+In 2015, 34.5 million tons of plastic waste was generated in the U.S. with 26 million tons landfilled. 5.4 million tons ended up being combusted for energy while only 3.1 million tons was recycled.
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet11?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
+
+According to the microplastic ocean data analysis, it is not far behind when plastic enters our food chain and on our plates!
+
+One of the best solutions to plastic pollution, is just **PREVENTION!**
 
 You can use the [editor on GitHub](https://github.com/MakeMyLifeEasy/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
