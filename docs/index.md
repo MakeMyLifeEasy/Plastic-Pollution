@@ -80,6 +80,6 @@ In 2015, 34.5 million tons of plastic waste was generated in the U.S. with 26 mi
 ### One of the best solutions to plastic pollution, is just **PREVENTION!**
 
 **References:**
-[Plastic FAQ's](https://ourworldindata.org/)
-[Planet aid](https://www.planetaid.org/blog/rethinking-plastic-waste)
-[Plastic Recycling](http://oceancrusaders.org/plastic-crusades/plastic-statistics/)
+- [Plastic FAQ's](https://ourworldindata.org/)
+- [Planet aid](https://www.planetaid.org/blog/rethinking-plastic-waste)
+- [Plastic Recycling](http://oceancrusaders.org/plastic-crusades/plastic-statistics/)
