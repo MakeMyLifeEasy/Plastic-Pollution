@@ -1,3 +1,5 @@
+## [Public Tableau Dashboard](https://public.tableau.com/views/Book1_15874823003510/PlasticPollution?:display_count=y&publish=yes&:origin=viz_share_link)
+
 ## **Big Idea**
 ### Whether humans live near the coasts or far inland, they are a part of the problem- and the solution to plastic pollution. Learning and preventing this global crisis at an individual level, could protect our oceans and waterways.
 
@@ -26,7 +28,7 @@ The production of plastic has been growing almost exponentially every year. The 
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet3?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
-China is the leading plastic producer accounting for about 28%. Meanwhile, Europe and NAFTA are on a similar level each with a share of around 18%~19% as depicted below.
+China is the leading plastic producer accounting for about 28%. Meanwhile, Europe and [NAFTA](https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement) are on a similar level each with a share of around 18%~19% as depicted below.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet5?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
@@ -63,7 +65,7 @@ What’s more striking is that even if the ocean plastic waste is stopped by 202
 
 ### **Plastic Recycling from around the World**
 
-According to Environmental Protection Agency report, Americans recycle around 35% of the waste they create. Many European countries on the other hand have developed successful recycling programs. Austria having the highest recycling rate of about 63%. But, on the other hand most of the developing nations do not have a formal waste disposal system.
+According to Environmental Protection Agency report, Americans recycle around 35% of the waste they create. Many European countries on the other hand have developed successful recycling programs. Germany having the highest recycling rate of about 65%. But, on the other hand most of the developing nations do not have a formal waste disposal system.
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Book1_15874823003510/Sheet10?:embed=yes&:display_count=yes&:showVizHome=no" width="800" height="500" scrolling='yes'> </iframe>
 
@@ -77,39 +79,7 @@ In 2015, 34.5 million tons of plastic waste was generated in the U.S. with 26 mi
 
 ### One of the best solutions to plastic pollution, is just **PREVENTION!**
 
-You can use the [editor on GitHub](https://github.com/MakeMyLifeEasy/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MakeMyLifeEasy/try/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+**References:**
+[Plastic FAQ's](https://ourworldindata.org/)
+[Planet aid](https://www.planetaid.org/blog/rethinking-plastic-waste)
+[Plastic Recycling](http://oceancrusaders.org/plastic-crusades/plastic-statistics/)
