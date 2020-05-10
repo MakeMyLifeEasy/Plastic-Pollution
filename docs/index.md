@@ -77,7 +77,7 @@ In 2015, 34.5 million tons of plastic waste was generated in the U.S. with 26 mi
 
 ### According to the microplastic ocean data analysis, it is not far behind when plastic enters our food chain and on our plates!
 
-### One of the best solutions to plastic pollution, is just **PREVENTION!**
+### Best solution to plastic pollution, is just **PREVENTION!**
 
 **References:**
 - [Plastic FAQ's](https://ourworldindata.org/)
